@@ -2,7 +2,7 @@
 
 <a href="https://matheus-barroso.itch.io" target="_blank">Meu portfólio de jogos</a>
 
-Meu nome é Matheu e sou aluno do curso Bacharelado de Jogos Digitais na Puc-SP.
+Meu nome é Matheus e sou aluno do curso Bacharelado em Jogos Digitais na Puc-SP.
 
 ## Meus principais projetos:
 [Hava Nice Day (itch.io)](https://luaninja.itch.io/hava-nice-day) -> [Repositório](https://github.com/matbrgod/Hava-Nice-Day)<br>
